@@ -1,0 +1,17 @@
+Standard Elements that browser recognizes:
+
+Paragraph    <p> </p>
+Heading      <h1> </h1>
+
+The component used to design the structure of websites are called HTML tags.
+
+A container for some content or other tags
+
+<p> This is a paragraph </p>  Element
+
+<p>   opening tag
+</p>  closing tag
+
+This is a paragraph           Content
+
+Content b/w the opening tag and the closing tag is known as Element.
